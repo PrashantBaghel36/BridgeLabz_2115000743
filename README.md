@@ -16,3 +16,7 @@ Day 4 (22/01/25)
     1) Solving basics JAVA coding problems
     2) Pushing the codes on repository
     3) Completing Assignment
+
+Day 5 (23/01/25)
+    1) Solving problems on loops, switch cases.
+    2) Completing the Assignment
