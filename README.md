@@ -86,4 +86,52 @@ Day 14 (01/02/25)
 Day 15 (02/02/25)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 16 (03/02/25)
+    1) Learning Keywords like, this,static,final,instance of operator.
+    2) Assigment - 
+       1) BankAccount - This Java program simulates a simple Bank Account system. It allows a user to:
+          Create a bank account by entering their name, account number, and initial balance.
+          Deposit money into the account.
+          Withdraw money, with a check to prevent overdrafts.
+          Display account details, including bank name, account number, account holder name, and balance.
+       2) Book - This Java program simulates a Library System where users can:
+          Add a book by entering its title, author, and ISBN.
+          Display book details, including the library name, title, author, and ISBN.
+          Display the library name using a static method.
+          The program runs in a loop, allowing users to choose operations until they opt to exit.
+       3) Employee - This Java program simulates a Basic Employee Management System where users can:
+          Add an Employee by entering their name, ID, and designation.
+          Display Employee Details, including the company name, ID, name, and designation.
+          Display Total Employees using a static method.
+          Display the Company Name using another static method.
+       4) Patient - This Java Patient Management System allows users to:
+          Add a Patient
+          Users enter the patient's name, age, and ailment.
+          Each patient gets a unique Patient ID assigned automatically.
+          Display Patient Details
+          Shows hospital name, patient ID, name, age, and ailment.
+          Track Total Patients 
+          Uses a static variable totalPatients to keep count.
+          Display Hospital Name
+          Uses a static method to retrieve the hospital's name.
+          Unique Patient ID Generation
+       5) Product - Product Creation
+          Each product is assigned a unique Product ID automatically.
+          Users input the product name, price, and quantity.
+          Display Product Details
+          Shows ID, name, price, quantity, and current discount percentage.
+          Update Discount
+          A static discount field applies to all products.
+          Users can update the discount dynamically.
+          Calculate Discounted Price
+          Computes the final price after applying the discount.
+       6) Student - Student Creation, Display Student Information, Update Grade, University & Student Count Display
+       7) Vehicle - Vehicle Registration
+          Stores owner name, vehicle type, and registration number.
+          Assigns a static registration fee for all vehicles.
+          Display Registration Details
+          Shows owner details, registration number, vehicle type, and fee.
+          Update Registration Fee
+          Allows the admin to modify the registration fee dynamically.
+
+
 
