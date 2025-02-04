@@ -1,16 +1,7 @@
 Day 1 (19/01/25)
     1) Basics of Github
     2) Basic Linux Commands
---------------------------------------------------------------------
-Day 2 (20/01/25)
-    1) Creating Git Repositories on Terminal
-    2) Generating SSH key
-    3) Connecting with Github
-    4) Pushing Code on githhub
---------------------------------------------------------------------    
-Day 3 (21/01/25)
-    1) About JAVA fundamentals
-    2) Completing Assignment -
+    3) Assignment - 
        1) Area Program - Finding area of circle 
        2) Average - Finding Average of Numbers
        3) CTF - Celsius To Fahrenheit converter
@@ -21,6 +12,33 @@ Day 3 (21/01/25)
        8) Sum - Calculating sum of two numbers
        9) Volume - Calculating the volume of cylinder
        10) Welcome - Printing Welcome to Bridgelabz
+--------------------------------------------------------------------
+Day 2 (20/01/25)
+    1) Creating Git Repositories on Terminal
+    2) Generating SSH key
+    3) Connecting with Github
+    4) Pushing Code on githhub
+--------------------------------------------------------------------    
+Day 3 (21/01/25)
+    1) About JAVA fundamentals
+    2) Assignment -
+       1) Age - Calculating age from 2000 to 2024
+       2) Average - Caclulating Average in PCM.
+       3) Calculator - Taking to numbers and performing arithmetic operations               accoording to user input.
+       4) DC - Converting distance to Yards and Miles from Feets. 
+       5) DiscountCalculator - Calculating the price after discount applied.
+       6) Distance - Converting distance to miles from Kilometres.
+       7) Distance Converter - Converting to miles.
+       8) Earth - Calculating volume of Earth in cubic miles and cubic kilometres.
+       9) HeightConverter - Converting height to feets and inches from cms.
+       10) HSC - Calculating the number of Handshakes possible between certain               peoples
+       11) Pen - Distributing pens among students. 
+       12) Price - Calculating the total price of specific items.
+       13) ProfitLossCalculator - Calculating the profit and Profit percentage
+       14) Square - Calculating the side of square from it's perimeter
+       15) TAC - Area of Triangle, also in Square centimetres and square inches.
+       16) UniversityDis - This Java program calculates the discounted fee for a             university student by taking the original fee and discount percentage             as input, computing the discount amount, and displaying both the                  discount and final payable fee.
+   
 ---------------------------------------------------------------------       
       
 
