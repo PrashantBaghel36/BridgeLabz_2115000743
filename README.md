@@ -257,6 +257,20 @@
 ### Day 20 (04/02/25)
     1) Studyng about Classes vs. Objects in Java, Class Diagram, Object Diagrams, Sequence Diagrams
 ---------------------------------------------------------------------------------------------------------------------------------------
+### Day 21 (05/02/25)
+    1) Learnt about Object Oriented Design Principles, Class Diagram, Object Diagrams, Sequence Diagrams
+    2) Created branch Feature_05/02/25 - 
+       1) BankSystem
+       2) CompanySystem
+       3) ECommercePlatform
+       4) HospitalSystem
+       5) LibrarySystem
+       6) SchoolSystem
+       7) UniversityManagement
+       8) UniversitySystem
+----------------------------------------------------------------------------------------------------------------------------------------       
+       
+
 
 
 
