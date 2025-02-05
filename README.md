@@ -13,7 +13,7 @@
 ### Day 4 (19/01/25)
     1) Basics of Github
     2) Basic Linux Commands
-    3) Assignment - 
+    3) Created Branch Feature_19/01/25 - 
        1) Area Program - Finding area of circle 
        2) Average - Finding Average of Numbers
        3) CTF - Celsius To Fahrenheit converter
@@ -33,7 +33,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 6 (21/01/25)
     1) About JAVA fundamentals
-    2) Assignment -
+    2) Created Branch Feature_21/01/25 -
        1) Age - Calculating age from 2000 to 2024
        2) Average - Caclulating Average in PCM.
        3) Calculator - Taking to numbers and performing arithmetic operations             
@@ -64,8 +64,44 @@
 ### Day 7 (22/01/25)
     1) Solving basics JAVA coding problems
     2) Pushing the codes on repository
-    3) Completing Assignment -
-       1)
+    3) Created branch Feature_22/01/25 -
+       1) Both_Sum
+       2) BothSumFor
+       3) Divisible_by_5
+       4) EmployeeBonus
+       5) Factorial
+       6) FactorialFor
+       7) Largest
+       8) MultiplicationTable
+       9) Natural
+       10) NumCheck
+       11) OddEvenNumbers
+       12) RocketLaunch
+       13) RocketLaunchUsingFor
+       14) Smallest
+       15) Spring
+       16) SumUntilZero
+       17) SumUntilZeroOrNegative
+       18) Vote
+       19) BMI
+       20) Factor
+       21) FizzBuzz
+       22) FizzBuzz2
+       23) FreindsComparison
+       24) GradeCalculator
+       25) GreatestFactor
+       26) LeapYear
+       27) Multiple
+       28) Power
+       29) PrimeNumberChecker
+       30) secondleap
+       31) Abundant
+       32) Armstrong
+       33) Calculator
+       34) DayOfWeek
+       35) DigitCounter
+       36) Harshad
+       
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 8 (23/01/25)
     1) Solving problems on loops, switch cases.
@@ -115,7 +151,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 19 (03/02/25)
     1) Learning Keywords like, this,static,final,instance of operator.
-    2) Assigment - 
+    2) Craeted Branch Feature_03/02/25 - 
        1) BankAccount - This Java program simulates a simple Bank Account system. It allows a user to:
           Create a bank account by entering their name, account number, and initial balance.
           Deposit money into the account.
