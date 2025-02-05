@@ -6,7 +6,7 @@
     1) Practiced basic Git Bash commands.
     2) Started working on IntelliJ IDEA for Java development.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 3 (17/01/25)
+### Day 3 (18/01/25)
     1) Learned Java basic concepts.
     2) Practiced Java syntax for a better understanding of the language.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------    
@@ -137,14 +137,48 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 12 (27/01/25)
     1) Moderate Arrays concepts
+    2) created branch feature_27/02/25 -
+       1)Calender
+       2) CollinearPoints
+       3) FootballTeam
+       4) LineEquation
+       5) MatrixOperations
+       6) NumberChecker
+       7) NumberChecker2
+       8) NumberChecker4
+       9) NUmberChecker5
+       10) NumberChecker6
+       11) OTPGenerator
+       12) StudentScores
+       13) ZaraBonus
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 13 (28/01/25)
     1) Introduction to methods
     2) Assignment on Java methods
+    3) Created branch Feature_28/01/25 -
+       1) LongestWord
+       2) Anagram
+       3) PalindromeChecker
+       4) CompareString
+       5) ConsonantsAndVowels
+       6) FrequentCharacter
+       7) RemoveDuplicate
+       8) ReverseString
+       9) SpecificCharacter
+       10) SubString
+       11) ToggleCase
+       12) WordReplace
+       13) P1
+       14) P2
+       15) P3
+       16) P4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 14 (29/01/25)
+    1) Created branch Feature_29/02/25
+       
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 15 (30/01/25)
+    1) Practiced questions on Build In Functions
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 16 (31/01/25)
     1) created Branch Feature_31/01/25
