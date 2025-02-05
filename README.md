@@ -105,14 +105,32 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 8 (23/01/25)
     1) Solving problems on loops, switch cases.
-    2) Completing the Assignment
+    2) Created branch Feature_23/01/25 -
+       1) ArrayInputAndSum
+       2) Copy2DTo1D
+       3) FactorsOfNumber
+       4) FizzBuzz
+       5) MeanHeight
+       6) MultiplicationTable
+       7) NumberAnalysis
+       8) OddEvenNumbers
+       9) VotingEligibility
+       10) BMICalculator
+       11) BMICalculator2DArray
+       12) DigitFrequency
+       13) EmployeeBonusCalculator
+       14) FriendsComparison
+       15) LargestDigits
+       16) LargestDigitDynamic
+       17) ReverseNumberArray
+       18) StudentGradeCalculator
+       19) StudentGradeCalculator2D
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 9 (24/01/25)
     1) Introduction to Arrays
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 10 (25/01/25)
     1) Questions on Arrays
-    2) Assignment on Arrays
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 11 (26/01/25)
     1) Practiced Questions
