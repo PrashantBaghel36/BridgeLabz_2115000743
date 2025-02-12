@@ -304,6 +304,21 @@
        7) RideHailingSystem
        8) VehicleRentalSystem
 ---------------------------------------------------------------------------------------------------------------------------------------
+### Day 27 (11/02/25)
+    1) Learnt about Linked Lists
+---------------------------------------------------------------------------------------------------------------------------------------
+### Day 28 (12/02/25)
+    1) Created Branch name Feature_12/02/25 -
+       1) InventoryManagementSystem
+       2) LibraryManagementSystem
+       3) MovieManagementSystem
+       4) RoundRobinScheduler
+       5) SocialMediaConnections
+       6) StudentRecord
+       7) TaskScheduler
+       8) TicketReservationSystem
+       9) UndoRedoTextEditor
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
 
