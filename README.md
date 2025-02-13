@@ -319,8 +319,20 @@
        8) TicketReservationSystem
        9) UndoRedoTextEditor
 ---------------------------------------------------------------------------------------------------------------------------------------
-
-
+### Day 29 (13/02/25)
+    1) Learnt about stacks,queues, hashmaps
+    2) Created a branch Feature_13/02/25
+       1) CircularTourProblem
+       2) CountPairWithGivenSum
+       3) CustomHashMap
+       4) ImplementQueueUsingStacks
+       5) LongestConsecutiveSequence
+       6) SlidingWindowMaximum
+       7) SortStack
+       8) StockSpanProblem
+       9) TwoSumProblem
+       10) ZeroSumSubarrays
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
 
