@@ -343,8 +343,28 @@
        6) HeapSort
        7) CountingSort
 ---------------------------------------------------------------------------------------------------------------------------------------
-
-
+### Day 30 (14/02/25)
+    1) Learnt about linear and binary search
+---------------------------------------------------------------------------------------------------------------------------------------
+### Day 31 (15/02/25)
+    1) Created branch Features_15/02/25
+       1) ComparePerformance
+       2) Comparison
+       3) ConcatenateStrings
+       4) ConvertByteStream
+       5) CountOccurences
+       5) FileReaderExample
+       6) FirstLastOccurence
+       7) FirstNegativeNumber
+       8) LinearBinaryChallenge
+       9) MatrixSearch
+       10) PeakElement
+       11) RemoveDuplicates
+       12) ReverseString
+       13) RotatedSortedArray
+       14) SpecificWord
+       15) WriteToFile
+---------------------------------------------------------------------------------------------------------------------------------------
        
 
 
