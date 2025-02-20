@@ -385,5 +385,36 @@
        4) University
        5) SmartWarehouse
 ---------------------------------------------------------------------------------------------------------------------------------------
-
-
+### Day 35 (19/02/25)
+     1) Studied about Collections
+---------------------------------------------------------------------------------------------------------------------------------------     
+### Day 36 (20/02/25)
+     1) Created branch Feature_20/02/25
+        1) BankingSystem
+        2) BinaryNumbersQueue
+        3) CheckSubset
+        4) CircularBuffer
+        5) CompareSets
+        6) ElementsFrequency
+        7) GroupByDepartment
+        8) HospitalTriage
+        9) InsuranceSystem
+        10) InvertMapWithoutGenerics
+        11) MaxValueKeyFinder
+        12) MergeMaps
+        13) NthElementInLinkedList
+        14) PolicyManager
+        15) PolicyManager2
+        16) RemoveDuplicatesPreservingOrder
+        17) ReveresList
+        18) ReverseQueue
+        19) RotateListByK
+        20) SetPerformanceComparison
+        21) SetToSortedList
+        22) ShoppingCart
+        23) StackUsingQueues
+        24) SymmetricDifference
+        25) UnionAndIntersectionInSets
+        26) VotingSystem
+        27) WordFrequencyCounter
+--------------------------------------------------------------------------------------------------------------------------------------- 
