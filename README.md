@@ -418,3 +418,18 @@
         26) VotingSystem
         27) WordFrequencyCounter
 --------------------------------------------------------------------------------------------------------------------------------------- 
+### Day 37 (21/02/25)
+    1) New branch Feature01_21/02/25 -
+       1) BufferedFileCopy
+       2) EmployeeSerialization
+       3) FileReadWrite
+       4) ImageToByteArray
+       5) LargeFileReader
+       6) PipedStreamExample
+       7) StudentDataStream
+       8) UppercaseToLowercase
+       9) UserInputToFile
+       10) WordFrequencyCounter
+    2) New Branch Feature02_21/02/25 - 
+       
+
