@@ -458,21 +458,21 @@
        12) TemperatureConverter
        13) UserRegstration
        -------------------
-       1)
-       2)
-       3)
-       4)
-       5)
-       6)
-       7)
-       8)
-       9)
-       10)
-       11)
-       12)
-       13)
-       14)
-       15)
+       1) CapitalizedWordExtractor
+       2) CensorBadWords
+       3) CreditCardvalidator
+       4) CurrencyExtractor
+       5) DateExtractor
+       6) EmailExtractor
+       7) HexColorValidator
+       8) IPAddressValidator
+       9) LicensePlateValidator
+       10) LinkExtractor
+       11) ProgrammingLanguageExtractor
+       12) RepeatingWordsFinder
+       13) SpaceReducer
+       14) SSNValidator
+       15) UsernameValidator
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
