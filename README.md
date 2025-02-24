@@ -474,8 +474,35 @@
        14) SSNValidator
        15) UsernameValidator
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-
-       
-       
+### Day 39 (23/02/25)
+    1) Studied about Annotations and Reflections
+----------------------------------------------------------------------------------------------------------------------------------------    
+### Day 40 (24/02/25)
+    1) Created Branch Feature_24/02/25
+       1) BugReportDemo
+       2) CachingSystem
+       3) ExecutionTimeLogger
+       4) ImportantMethodDemo
+       5) JsonSerializer
+       6) MaxLengthValidator
+       7) RoleBasedAccessControl
+       8) TodoAnnotationDemo
+       9) WarningSuppressor
+       10) WithDeprecated
+       11) WithOverRide
+       12) WithTaskInfo
+       -------------------
+       1) AccessPrivateField
+       2) CustomMapper
+       3) DynamicallyObject
+       4) DynamicMethod
+       5) GetClassInformation
+       6) InjectionReflectionExample
+       7) InvokePrivateMethod
+       8) JsonRepresentation
+       9) MethodExecutionTiming
+       10) ProxyExample
+       11) RetrieveAnnotationRuntime
+       12) StaticField
+----------------------------------------------------------------------------------------------------------------------------------------           
 
